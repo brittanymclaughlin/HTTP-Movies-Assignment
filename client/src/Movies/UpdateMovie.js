@@ -33,7 +33,7 @@ const UpdateMovie = (props) => {
         e.preventDefault();
         console.log("Test updated movie", update)
         axios
-        .put("http://localhost:5000/api/movies/:id", update)
+        .put(`http://localhost:5000/api/movies/${id}`, update)
         .then(res => {
             console.log(res)
            props.history.push("/")
