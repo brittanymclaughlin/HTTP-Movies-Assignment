@@ -49,6 +49,30 @@ let movies = [
     director: "George P. Cosmatos",
     metascore: 89,
     stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
+  }, {
+    id: 6,
+    title: "Tombstone",
+    director: "George P. Cosmatos",
+    metascore: 89,
+    stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
+  } ,{
+    id: 7,
+    title: "Tombstone",
+    director: "George P. Cosmatos",
+    metascore: 89,
+    stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
+  } ,{
+    id: 8,
+    title: "Tombstone",
+    director: "George P. Cosmatos",
+    metascore: 89,
+    stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
+  }, {
+    id: 9,
+    title: "Tombstone",
+    director: "George P. Cosmatos",
+    metascore: 89,
+    stars: ["Kurt Russell", "Bill Paxton", "Sam Elliot"]
   }
 ];
 
